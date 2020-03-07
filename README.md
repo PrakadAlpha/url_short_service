@@ -1,5 +1,5 @@
-# url_short_service
-Basic url shortner service using Node..!
+# URL SHORTNER
 
-#07/03/2020
-Yet to add frontend
+Basic url shortner Api using Node..!
+
+Note: Use ```npm install``` to install the dependencies.
